@@ -1,0 +1,45 @@
+==============================================================
+2000_16_Droid_Allechante by: Android
+
+INTERESTING MAP REMAKE BY JAKES LEVEL
+==============================================================
+
+Map Name:      		2000_16_Droid_Allechante
+Author:             Android
+Author email:  		hl.droid.ru@gmail.com
+Homepage:      	    http://hl-droid.ru
+Social Services:    VK: vk.com/hldroid
+                    FB: fb.com/hldroid 
+Specification:      2000_16_Droid_Allechante
+                    Created for [D.R.O.I.D] Half-Life Server
+Owner:              UNdroid
+
+==============================================================
+CONSTRUCTION:
+
+Base map:           Inspired by 2000_2_no_mortal Jakes Level .
+Editor used:        Valve Hammer Editor
+Utilities used:     VHLT 23,Wally 1.55b
+Secrets:            Yes
+Known bugs:         None
+
+==============================================================
+Credits:
+
+- Original author of 2000_2_no_mortal.  
+- Moonshine for beta testing, great ideas, sounds and reporting bugs.
+- [{England Gamer}]-LORD, Bilel, LLl_O_K_E_P, a Hy Ka Ha Ka, zero,
+  MEDBEDb, {SERBIAN GAMER}-GHOST, The Best Killer
+  Electric, mr JIyk, Dina : beta testing, and his time.
+- Original music : Edward Maya - Stereo Love ; Tanita Tikaram - Twist in my Sobriety
+  (Piano Instrumental) ; MrExpert ; The Simpsons Intro ; Rus TV 1990 Intro.
+
+==============================================================
+Install in /your_account_name/half-life/valve
+==============================================================
+COPYRIGHT 2016
+
+Android Administrator Half Life [D.R.O.I.D] Server ©
+
+
+
