@@ -1,0 +1,72 @@
+- Fixed bugs 
+- New Areas
+- New Secrets
+- Improved Delays on doors and increased speed of doors
+============================================================
+CREATOR
+
+map by: Joks
+
+============================================================
+
+Completion Date:   08/05/2020
+
+Map Name:         2020_Egypt
+
+Author:             Joks
+
+Author contacts:      t.me/pavelselikhov
+
+<Jam> Servers:  jamservers@yahoo.com
+
+ds-servers.com
+
+dsn.host
+
+============================================================
+
+LEVEL DESCRIPTION:
+
+
+Single Player:    No
+
+Co-Op:              No
+
+Deathmatch:      Yes
+
+Suggested Players:  6-18
+
+New Textures:    No
+
+New Sounds:      No
+
+New Models:     No
+
+Skybox: Colorado canyon
+
+============================================================
+
+CONSTRUCTION: 7 days build time
+
+Editor used:             J.A.C.K (JackHammer)
+                         Valve Hammer 3.4
+                         Paint
+                         Fonts
+
+Utilities used:          VHLT
+
+Secrets:                 Yes
+
+============================================================
+
+Install in /half-life/valve/
+
+==================================
+
+Credits:
+
+-Thank for testing: Moonshine
+
+
+============================================================
+
